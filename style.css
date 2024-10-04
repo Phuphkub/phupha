@@ -1,0 +1,14 @@
+body, h1, h2, h3, h4, h5, h6 {
+    color: var(--main-text-color);
+}
+body {
+    background-color: var(--body-background-color);
+   
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+body {
+    background-color: black;
+}
+
